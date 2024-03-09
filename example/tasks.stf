@@ -1,0 +1,21 @@
+= Tasks
+
+== Types
+- New
+/ Started
+~ Blocked
+? Eventual
+x Finished
+
+== Nesting
+- Task
+  - Subtask
+
+== Info
+- Date @12.01
+- Tags #tag
+
+== Priorities
+- Highest !!!
+- High !!.
+- Medium !..
